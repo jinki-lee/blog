@@ -374,3 +374,8 @@ a {
 .button:hover {
   background-color: thistle;
 }
+
+.picRight{
+  floiat:right;
+  margin:0 0 20px 20px;
+}
