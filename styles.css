@@ -10,7 +10,7 @@ body {
   display: flex;
   flex-direction: column;
   margin: 0;
-  background-color: lightsteelblue;
+  background-color: #DEE1DD;
 }
 
 h2, h3 {
@@ -166,11 +166,11 @@ a {
 }
 
 .projects {
-  background-color: #fbe0dd;
+  background-color: #2F575D;
 }
 
 .experience {
-  background-color: linen;
+  background-color: #6D9197;
 }
 
 .anchor {
