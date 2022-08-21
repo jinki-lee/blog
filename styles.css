@@ -166,7 +166,7 @@ a {
 }
 
 .hobbies {
-  background-color: #C4CDC1;
+  background-color: #99AEAD;
 }
 
 .education {
@@ -302,7 +302,7 @@ a {
 }
 
 .hobbies {
-  background-color: #99AEAD;
+  background-color: #C4CDC1;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1), 0 4px 20px 0 rgba(0, 0, 0, 0.1); 
@@ -378,7 +378,7 @@ a {
 .picRight{
   position: relative;
   top: 20px;
-  left: calc(100% + 10px);
+  left: calc(100% + 50px);
   height: 200px;
   width: 100px;
 }
