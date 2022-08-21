@@ -376,5 +376,7 @@ a {
 }
 
 .picRight{
+  max-height: 90%;
+  max-width: 90%;
   float:right;
 }
