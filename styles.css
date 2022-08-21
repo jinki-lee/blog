@@ -165,13 +165,14 @@ a {
   margin-top: 50px;
 }
 
+.education {
+  background-color: #C4CDC1;
+}
+
 .hobbies {
   background-color: #99AEAD;
 }
 
-.education {
-  background-color: #C4CDC1;
-}
 
 .anchor {
   display: block;
