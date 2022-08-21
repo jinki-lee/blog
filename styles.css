@@ -296,13 +296,13 @@ a {
   margin: 10px;
 }
 
-.project h2 {
+.project= h2 {
   margin: 5px;
   word-break: break-all;
 }
 
 .project {
-  background-color: #e9dde9;
+  background-color: #2F575D;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1), 0 4px 20px 0 rgba(0, 0, 0, 0.1); 
