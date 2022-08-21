@@ -377,6 +377,8 @@ a {
 
 .picRight{
   position: relative;
-  top: 100px;
-  left: 100px;
+  top: 20px;
+  left: calc(100% + 10px);
+  height: 200px;
+  width: 100px;
 }
