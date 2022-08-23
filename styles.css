@@ -375,11 +375,3 @@ a {
 .button:hover {
   background-color: thistle;
 }
-
-.picRight{
-  position: relative;
-  top: 20px;
-  left: calc(100% + 50px);
-  height: 200px;
-  width: 100px;
-}
