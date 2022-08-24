@@ -375,3 +375,16 @@ a {
 .button:hover {
   background-color: #658B6F;
 }
+
+.wrapper{
+    width: 500px; 
+    overflow-x:scroll;     
+    white-space: nowrap;
+}
+
+.slide{
+    background: #ccc;
+    height: 200px;
+    display: inline-block;
+    width: 100px;
+}
