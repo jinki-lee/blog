@@ -365,7 +365,7 @@ a {
 }
 
 .button {
-  background-color: #e9dde9;
+  background-color: #C4CDC1;
   border-radius: 3px;
   align-self: center;
   padding: 10px;
@@ -373,5 +373,5 @@ a {
 }
 
 .button:hover {
-  background-color: thistle;
+  background-color: #658B6F;
 }
