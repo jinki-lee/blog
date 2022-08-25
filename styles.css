@@ -395,8 +395,8 @@ a {
 
 .scholarships {
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
   margin: 10px;
 }
 
